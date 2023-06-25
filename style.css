@@ -1,0 +1,23 @@
+/*.container{
+    height: 80px;
+    background-color:blueviolet;
+}
+.row{
+    height: 30px;
+    
+    border: 1px black;
+
+}
+.mycol{
+  height: 20px;
+  background: orange;
+  border: 1px solid black;
+
+} */
+.setCarouseHeight{
+  height: 400px;
+}
+.myCard{
+   margin-left: 10px;
+  margin-right: 10px;
+}
